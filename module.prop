@@ -1,0 +1,6 @@
+id=nafis_vpn_bypass
+name=Nafis VPN Bypass LSPosed Module
+version=v1.0
+versionCode=1
+author=RJ Ashraful Islam
+description=Diagnostic hook scoped to the com.nafis.vpntest test app; logs VPN capability queries without changing results.
